@@ -1,0 +1,10 @@
+#pip3 unintall torch torchvisi
+numpy 
+torch 
+torchvision -f https://download.pytorch.org/whl/torch_stable.html
+scipy 
+tqdm 
+transformers 
+sentencepiece 
+datasets
+flask
